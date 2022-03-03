@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T10:03:34.521Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="BxJ8ciGdU7eOax3FF3Hi" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T10:03:45.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vARdCGu_XZlVL4Siw9TI" version="16.6.5" type="github">
   <diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="n0SPgDfvK4vVQuMixZmU-2" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="570" y="100" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n0SPgDfvK4vVQuMixZmU-3" value="一个字节，长度为0" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f8cecc;gradientDirection=north;sketch=1;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="n0SPgDfvK4vVQuMixZmU-3" value="一个字节，长度（值）为0" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f8cecc;gradientDirection=north;sketch=1;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n0SPgDfvK4vVQuMixZmU-5" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f8cecc;gradientDirection=north;sketch=1;strokeColor=#b85450;" vertex="1" parent="1">
