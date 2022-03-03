@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T09:39:38.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="70egiaz4VIhvBeyct3e7" version="16.6.5" type="github"><diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">7Zpdb5swFIZ/jS9XAebDvoR8tNLWTVtU7doBJ6AQHBHSJPv1s8E0AVwlawthTaQoMsdg4Dw+9ntsABwsd/cpWYWPLKAxMLRgB+AQGAY2bf4vDPvCYOtmYZinUVCY9INhEv2h0qhJ6yYK6LpyYsZYnEWrqtFnSUL9rGIjacq21dNmLK7edUXmtGGY+CRuWn9HQRYWVmQ4B/sDjeZheWfdxkXNlPiLeco2ibxfwhJa1CxJ2Yx8x3VIArY9MsERgIOUsawoLXcDGguvlh4rrhu/UvvyyClNsnMu+LlhT+OvT/Hj9Lu9ZJsVnvxYfDGKVp5JvJGukA+b7Uvf5G9HRSMagN42jDI6WRFf1G55Z+C2MFvG/EjnxVkUxxN5LdlkTJoGLGZp3hyckcAhPrfPUxJE/NmHUcqRRizh9QlLhde89YJmfijbXGcpW9CjJqambWkmr2m6QHrlmaYZ3R2ZpEvuKVvSLN3zU8raEs++7JHyeHvoByaStvCoD1jSRmTXm780fWDACxLDPyCBTSQjBNwx8BwwsoGnA2SIAuZlnFsgwNYNWwPbyzmdYDMV2BzgYuC5ApKrAW9wZZAM8zQk2CUjq8Ho6de3a4Pi9C1y7Fvk1CFB3LPIcRSMLICGAI3z2WkkfpwawgChfHYaAPfaqJm9m5SwEhv2AB4JbN4QuPaVQbL6NimVOVAFki1iyy2UHxd81xZJ1hmTVLeQ9CakOhKe4K1E0d+k8d5LeWZIs9NsqiBncbR6+F+p2fppap0Of7oivVXkUq/FGH/trAqLxNFc+NbnTqLcg55wTuST2JUVyygIxOVK6jXUTbwVVB8BBNaA6E0gpgIIbA2IKkuygGsCzwQjrh0gcFFuGQKcI+KywrPySUsTQ2LLw2BAKJq9L6BsH9HprKUs11IFVKcR1UyhciHIBV9RyEPruijBMyh1O1mpMqrzogx1kWz1jZ91mp+OOwWoTre61e09o9TQ7RePMqSA1LVu7xukum6/OKRmBnx3d3dlVOoywrj4Hkf5QDcd+DaAF9eBhiIfvunA05Q6HfzKNYqbDnyTDlTx61YHGqq94JsO7FmUqdY0bjqwZ5AUKXEdSQfrt2fTqeGd6kEw01TUdM2BmLa0fquUGU1qenvYVIlwcwG3MafV0X66lVxDsZJrKdC0tpJrqLJfR2zZczjF10nIOWwEv+zjc1b8X+waOwC7AJmTn61/gTHVKKT2uwZHjSINoXbUPDw3HbNbg6nYJ77A6NhvbPXRUYVNNTq2Rg2qcjDV4MizMpSreiHv8ecfHGG5S/HxgyM/PHyxm9cdfRANR38B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-03T09:41:11.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="8H623GXahITb_1Vbm2RA" version="16.6.5" type="github">
+  <diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QuoUFKUlMbN6moup9SOk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="120" y="100" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-3" value="请求方法" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="120" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-4" value="空格" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="240" y="100" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-5" value="URL" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="270" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-6" value="空格" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="390" y="100" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-7" value="协议版本" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="420" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-9" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="540" y="100" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-10" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="570" y="100" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;flipH=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="610" y="100" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-12" value="状态行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-14" value="头部字段名" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-15" value="冒号" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="150" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-16" value="头部字段值" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="350" y="150" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-17" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="540" y="150" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-18" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="570" y="150" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-19" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-20" value="头部字段名" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="250" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-21" value="冒号" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="320" y="250" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-22" value="头部字段值" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="350" y="250" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-23" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="540" y="250" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-24" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="570" y="250" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;flipH=1;fillStyle=auto;gradientDirection=north;sketch=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="610" y="150" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-27" value="请求头部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-28" value="纯文本格式的SQL" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#b0e3e6;gradientDirection=north;sketch=1;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="120" y="300" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;flipH=1;fillStyle=auto;fillColor=#b0e3e6;gradientDirection=north;sketch=1;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="610" y="300" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-31" value="请求内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="315" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
