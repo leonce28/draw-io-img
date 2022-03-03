@@ -1,47 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T09:53:29.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="yzoTA0-kI1cFqccXieNY" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T10:01:03.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6crFeH6GFoSycypJAGT_" version="16.6.5" type="github">
   <diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QuoUFKUlMbN6moup9SOk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="120" y="100" width="480" height="50" as="geometry" />
+        <mxCell id="QuoUFKUlMbN6moup9SOk-3" value="不定长的几个字节表示当前块的大小" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="100" width="420" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-3" value="当前块的大小" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;gradientDirection=north;sketch=0;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="120" y="100" width="120" height="50" as="geometry" />
+        <mxCell id="QuoUFKUlMbN6moup9SOk-14" value="具体的数据，长度等于chunk size" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="420" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-14" value="头部字段名" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="120" y="150" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-15" value="冒号" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="320" y="150" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-16" value="头部字段值" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="350" y="150" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-17" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="QuoUFKUlMbN6moup9SOk-17" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="540" y="150" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-18" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="QuoUFKUlMbN6moup9SOk-18" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="570" y="150" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QuoUFKUlMbN6moup9SOk-19" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="120" y="200" width="480" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-20" value="头部字段名" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="120" y="250" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-21" value="冒号" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="320" y="250" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-22" value="头部字段值" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="350" y="250" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-23" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="540" y="250" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QuoUFKUlMbN6moup9SOk-24" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#dae8fc;gradientDirection=north;sketch=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="570" y="250" width="30" height="50" as="geometry" />
+          <mxGeometry x="120" y="200" width="480" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8218wxz1-n193GUCOzv4-2" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="30" height="50" as="geometry" />
@@ -49,11 +25,11 @@
         <mxCell id="8218wxz1-n193GUCOzv4-3" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="150" y="300" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n0SPgDfvK4vVQuMixZmU-1" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;gradientDirection=north;sketch=1;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="240" y="100" width="30" height="50" as="geometry" />
+        <mxCell id="n0SPgDfvK4vVQuMixZmU-1" value="回车" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n0SPgDfvK4vVQuMixZmU-2" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;gradientDirection=north;sketch=1;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="270" y="100" width="30" height="50" as="geometry" />
+        <mxCell id="n0SPgDfvK4vVQuMixZmU-2" value="换行" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="30" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
