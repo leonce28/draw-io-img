@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T09:43:58.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NlNWxDJ5PAGRn-KSQOXl" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T10:07:58.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="t9nr2YnvUZD3CxVCK2XJ" version="16.6.5" type="github">
   <diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QuoUFKUlMbN6moup9SOk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="120" y="100" width="480" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="QuoUFKUlMbN6moup9SOk-3" value="协议版本" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#fad7ac;gradientDirection=north;sketch=1;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="120" y="100" width="120" height="50" as="geometry" />
         </mxCell>
