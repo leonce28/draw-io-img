@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T06:09:59.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="oDYTF30p45qY9xdpQ7bn" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T06:12:19.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6NNgwjUz0pWM3J8z7P5C" version="16.6.5" type="github">
   <diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="i-7tSpso-G0HtrBFlRGV-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="100" width="20" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i-7tSpso-G0HtrBFlRGV-2" value="Result Set Header" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="115" width="110" height="20" as="geometry" />
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-2" value="列数量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="115" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="i-7tSpso-G0HtrBFlRGV-3" value="消息长度" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="120" height="50" as="geometry" />
@@ -57,6 +57,15 @@
         </mxCell>
         <mxCell id="i-7tSpso-G0HtrBFlRGV-21" value="EOF" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-23" value="列信息（多个）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-24" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="480" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
