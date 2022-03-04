@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T05:40:40.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="YY_jcR8ikWc2QIGlDb3c" version="16.6.5" type="github"><diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">5Zddb9owFIZ/jS8rkTiflxgo07ZumlC3a5O4iYsTM8cU2K/fceIAaVLRbQVN6k10/J7EJu/jc2IQnhS7uaLr/E6mTCB3lO4QniLXjb0ArkbYN0LgeI2QKZ42knMUFvwXs+LIqhuesqpzo5ZSaL7uioksS5bojkaVktvubQ9SdFdd04z1hEVCRV/9wVOdN2rkhkf9A+NZ3q7sBHGTWdJklSm5Ke16pSxZkyloO419xyqnqdyeSHiG8ERJqZuo2E2YMK62jjXP3b6QPfxkxUr9mge+beT97ad7cbf8EhRys44XX1c3uJnliYqNtQLNAkQCFEUmiBw0vkWzGMU+IhDAdYzGFnal961/tQPMLDRCmGxzrtliTROT3cKGAS3XhYCRA+EDF2Jhn6UbLa00kUKqejrMnNRnIeiZoimH95tyBdi5LCFfSmWcJdWK6SS3c1ZayRU7mSIOQkwDyPRtss49MaXZ7kSyts2ZLJhWe7ilzbYI9+2utePtca8c7slP9olvNWq3Z3aY+sgJAovqD7D5A9hqNlENCa4kfGeQXO88pPCajMIeo9I0jL2GRgebxVQX1JJvghjisA4AYpOaovHs0gSBX5R6/0Qwcpc4eCOC3ug8QXd0IYR35Ob7T07mYa5Xj6vi8+PHiN04PYQ9JNDV1yZMlKyqJVXnuRwhOs/tfanCrtvdgoHuFg/Y7l7KdvdVHyUfjT1EvB4ReG3ddbxrX/2J7nptJSp4ZrZ+AmYyQ9KYyOGUMLaJgqepWWYQcbc4D1zrQfvpN4NM0Kqy8Vvgi5/hi/r4/AF6zqXoDRwprlk0h6Z20V6FnfNF4161aLxXFQ1UzBTF+L0XjYf/s6IJBuhFhhipzwXEQdEgz9CkCDHdMJ6hiLyzI0OvDAeODENV+BcnBhge/6vVuZO/wnj2Gw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-04T06:02:12.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="yhweX_dBXHXm9EaczL0O" version="16.6.5" type="github">
+  <diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QuoUFKUlMbN6moup9SOk-3" value="消息长度" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="120" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QuoUFKUlMbN6moup9SOk-5" value="序号" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="240" y="100" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MB-VqiBG7htkjkmLjJ8e-6" value="响应字段数" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="310" y="100" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-2" value="Result Set Header" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="115" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-3" value="消息长度" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-4" value="序号" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-5" value="目录名称" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-6" value="数据库名称" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-7" value="数据库原始名称" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-14" value="列字段名称" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-15" value="列原始名称" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#e1d5e7;gradientDirection=north;sketch=1;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-16" value="字符编码" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-17" value="列字段长度" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i-7tSpso-G0HtrBFlRGV-18" value="列字段类型" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
