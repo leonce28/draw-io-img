@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T08:14:08.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_PvOO-cencqnV9dJnF1W" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T08:14:12.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0IjHdNvDDN72r2oU83iP" version="17.1.1" type="github">
   <diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="u6mgbEkUvCRB6LugAYpK-73" value="2. DcodeFP回调" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u6mgbEkUvCRB6LugAYpK-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6mgbEkUvCRB6LugAYpK-75" target="u6mgbEkUvCRB6LugAYpK-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6mgbEkUvCRB6LugAYpK-75" value="3. 传输层解析建流" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#d5e8d4;gradientDirection=north;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="250" width="120" height="50" as="geometry" />
