@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T06:02:13.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0woD9hGYrHesVBxmmXST" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T06:03:08.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="sPe0wTJRDpv1FyEfVU-l" version="17.1.1" type="github">
   <diagram id="9ZpSaxzcpz4ULXaL1X-T" name="第 1 页">
     <mxGraphModel dx="1841" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -137,7 +137,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6mgbEkUvCRB6LugAYpK-139" value="PROTO_ID_CK_NATIVE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#19750F;labelBorderColor=none;" vertex="1" connectable="0" parent="u6mgbEkUvCRB6LugAYpK-138">
+        <mxCell id="u6mgbEkUvCRB6LugAYpK-139" value="PROTO_ID_CK_NATIVE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBorderColor=none;" vertex="1" connectable="0" parent="u6mgbEkUvCRB6LugAYpK-138">
           <mxGeometry x="0.5375" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -150,7 +150,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6mgbEkUvCRB6LugAYpK-166" value="PROTO_ID_CK_GRPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#19750F;labelBorderColor=none;" vertex="1" connectable="0" parent="u6mgbEkUvCRB6LugAYpK-140">
+        <mxCell id="u6mgbEkUvCRB6LugAYpK-166" value="PROTO_ID_CK_GRPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBorderColor=none;" vertex="1" connectable="0" parent="u6mgbEkUvCRB6LugAYpK-140">
           <mxGeometry x="0.3694" y="-13" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -163,7 +163,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6mgbEkUvCRB6LugAYpK-165" value="PROTO_ID_CK_HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#19750F;labelBorderColor=none;" vertex="1" connectable="0" parent="u6mgbEkUvCRB6LugAYpK-164">
+        <mxCell id="u6mgbEkUvCRB6LugAYpK-165" value="PROTO_ID_CK_HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBorderColor=none;" vertex="1" connectable="0" parent="u6mgbEkUvCRB6LugAYpK-164">
           <mxGeometry x="0.3213" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -185,7 +185,7 @@
             <mxPoint x="535" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6mgbEkUvCRB6LugAYpK-157" value="PROTO_ID_CK_MYSQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#19750F;labelBorderColor=none;" vertex="1" connectable="0" parent="u6mgbEkUvCRB6LugAYpK-155">
+        <mxCell id="u6mgbEkUvCRB6LugAYpK-157" value="PROTO_ID_CK_MYSQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBorderColor=none;" vertex="1" connectable="0" parent="u6mgbEkUvCRB6LugAYpK-155">
           <mxGeometry x="0.4" y="3" relative="1" as="geometry">
             <mxPoint x="-7" as="offset" />
           </mxGeometry>
